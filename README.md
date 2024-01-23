@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Herosima-MAGASAKE
 <html>
 <head>
-     <titl>Солнце Яркое</titl>
+     <titl>Придумайте себе имя</titl>
 </head>
 <body>
-<p>TETRADKA JOJO</p>
+<p>Перед тем как начать играть в TANKS BLITZ</p>
 </body>
 </html>
